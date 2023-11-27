@@ -22,6 +22,10 @@ Get real-time weather updates based on your location. Our app displays temperatu
 - Shimmer
 - Animate_do
 
+## API:
+
+- [OpenWeather](https://openweathermap.org/api)
+
 
 ## Screenshots
 
