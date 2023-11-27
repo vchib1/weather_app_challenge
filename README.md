@@ -12,6 +12,17 @@ Get real-time weather updates based on your location. Our app displays temperatu
 - Add custom list of cities to get their realtime weather information.
 
 
+## Packages:
+
+- Weather
+- Intl
+- Geolocator
+- Flutter_svg
+- Lottie
+- Shimmer
+- Animate_do
+
+
 ## Screenshots
 
 ![01](https://github.com/vchib1/weather_app_challenge/assets/16263958/ca41632d-bd57-42dc-bf0e-25410629782a)
