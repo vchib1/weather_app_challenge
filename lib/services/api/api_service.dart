@@ -5,8 +5,7 @@ import '../geolocator/gelocator_service.dart';
 const String apiKey = "807bf957df660eabddfe5cc570a0039d";
 
 class API {
-  static Future<List<Weather>> fetchFiveDayWeather(
-      {String cityName = "delhi"}) async {
+  static Future<List<Weather>> fetchFiveDayWeather() async {
     try {
       WeatherFactory factory = WeatherFactory(apiKey);
 
