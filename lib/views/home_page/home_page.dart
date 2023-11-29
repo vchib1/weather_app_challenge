@@ -5,8 +5,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:weather/weather.dart';
 import 'package:animate_do/animate_do.dart';
 import 'package:weather_app_contest/utils/extensions/double.dart';
-import 'package:weather_app_contest/utils/extensions/int.dart';
-
+import 'package:weather_app_contest/utils/extensions/datetime.dart';
 import '../../services/api/api_service.dart';
 import '../../utils/constants/assets.dart';
 import '../saved_location_page/saved_location_page.dart';
